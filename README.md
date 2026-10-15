@@ -4,6 +4,7 @@
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 [about autograder](autograder_instructions.md)
+-[COMP1238](https://github.com/collinslinus16/mynotes/blob/main/comp1238.md)
 
 ## Timetable
 - Monday
